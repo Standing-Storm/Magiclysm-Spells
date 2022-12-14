@@ -1,0 +1,27 @@
+[
+  {
+    "id": "druid_bandage_heal",
+    "type": "SPELL",
+    "name": "Vegetative Poultice",
+    "description": "This spell turns a mixture of bark and leaves into a powerful salve capable of stopping even grievous wounds from bleeding.",
+    "valid_targets": [ "none" ],
+    "flags": [ "CONCENTRATE", "SOMATIC", "VERBAL", "NO_LEGS" ],
+    "min_damage": 1,
+    "max_damage": 1,
+    "effect": "spawn_item",
+    "effect_str": "druid_bandages",
+    "components": "spell_components_druid_bandage",
+    "shape": "blast",
+    "base_casting_time": 400,
+    "final_casting_time": 200,
+    "casting_time_increment": -13.33,
+    "base_energy_cost": 450,
+    "min_duration": 24000,
+    "max_duration": 36000,
+    "duration_increment": 2400,
+    "difficulty": 5,
+    "max_level": 15,
+    "spell_class": "DRUID",
+    "energy_source": "MANA"
+  }
+]
