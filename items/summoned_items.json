@@ -1,0 +1,20 @@
+[  
+  {
+    "id": "druid_bandages",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "Druid Poultice" },
+    "description": "A mixture of bark, moss, and leaves, glowing faintly with verdant energy",
+    "weight": "70 g",
+    "volume": "250 ml",
+    "price": 1,
+    "price_postapoc": 1,
+    "material": [ "wood" ],
+    "symbol": "!",
+    "color": "green",
+    "charges": 3,
+    "stack_size": 9,
+    "flags": [ "NO_INGEST", "EDIBLE_FROZEN" ],
+    "use_action": { "type": "heal", "bandages_power": 6, "bleed": 20, "move_cost": 3000 }
+  }
+]
