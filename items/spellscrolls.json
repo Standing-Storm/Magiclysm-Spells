@@ -1,10 +1,10 @@
   [
-  {
-  "type": "BOOK",
-    "copy-from": "spell_scroll",
-    "id": "spell_scroll_druid_bandage",
-    "name": { "str": "Scroll of Vegetative Poultice", "str_pl": "Scrolls of Vegetative Poultice" },
-    "description": "Before modern medicine, druids were the healers for their communities.",
-    "use_action": { "type": "learn_spell", "spells": [ "druid_bandage_heal" ] }
-  }
+    {
+      "type": "BOOK",
+      "copy-from": "spell_scroll",
+      "id": "spell_scroll_druid_bandage",
+      "name": { "str": "Scroll of Vegetative Poultice", "str_pl": "Scrolls of Vegetative Poultice" },
+      "description": "Before modern medicine, druids were the healers for their communities.",
+      "use_action": { "type": "learn_spell", "spells": [ "druid_bandage_heal" ] }
+    }
   ]
