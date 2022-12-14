@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "new_magi_spells",
+    "name": "New Spells for Magiclysm",
+    "authors": [ "StandingStorm" ],
+    "maintainers": [ "StandingStorm" ],
+    "description": "Adds new spells for Magiclysm",
+    "category": "magical",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]
