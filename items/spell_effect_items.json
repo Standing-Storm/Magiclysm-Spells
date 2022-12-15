@@ -59,5 +59,70 @@
            ] 
       },      
      "armor": [ { "encumbrance": 0, "coverage": 15, "covers": [ "eyes" ] } ]
+},
+{
+    "id": "druid_recurve_enhanced",
+    "//": "Not using copy-from 'reflexbow', since wearability causes druid bow not to be wielded, and ammo / clip type causes it to require real arrows",
+    "type": "GUN",
+    "symbol": "(",
+    "color": "yellow",
+    "looks_like": "recurbow",
+    "name": { "str": "Woodbow of the Everliving" },
+    "description": "A magically conjured recurve bow with vines twining around the shaft.  The arrows it fires trail flowerpetals in their wake.",
+    "flags": [
+      "FIRE_TWOHAND",
+      "PRIMITIVE_RANGED_WEAPON",
+      "BELTED",
+      "UNBREAKABLE_MELEE",
+      "NONCONDUCTIVE",
+      "ONLY_ONE",
+      "NO_REPAIR",
+      "NO_SALVAGE",
+      "NO_UNLOAD",
+      "WATERPROOF_GUN",
+      "NO_TURRET",
+      "NEVER_JAMS"
+    ],
+    "ammo_effects": [ "NEVER_MISFIRES" ],
+    "skill": "archery",
+    "min_strength": 8,
+    "weight": "540 g",
+    "bashing": 12,
+    "to_hit": 2,
+    "reload_noise_volume": 3,
+    "loudness": 6,
+    "ranged_damage": { "damage_type": "stab", "amount": 35 },
+    "range": 12,
+    "dispersion": 950,
+    "durability": 6,
+    "volume": "2500 ml"
+  },
+	{
+    "id": "aura_feral_enhanced",
+    "type": "ARMOR",
+    "name": "feral aura",
+    "description": "The manifestation of your rage.  It won't disappear until you calm down.",
+    "weight": "1 g",
+    "volume": "1 ml",
+    "price": 3646,
+    "symbol": "o",
+    "color": "white",
+    "material": [ "magical_material" ],
+    "flags": [ "PERSONAL", "SEMITANGIBLE", "OVERSIZE", "ONLY_ONE", "TRADER_AVOID", "NO_TAKEOFF", "NONCONDUCTIVE" ],
+    "relic_data": {
+      "passive_effects": [
+        {
+          "has": "WORN",
+          "condition": "ALWAYS",
+          "values": [
+            { "value": "STRENGTH", "add": 3 },
+            { "value": "DEXTERITY", "add": 3 },
+            { "value": "INTELLIGENCE", "add": -3 },
+            { "value": "PERCEPTION", "add": -3 }
+          ],
+          "mutations": [ "FUR", "CLAWS", "FANGS", "ADRENALINE", "TERRIFYING", "NIGHTVISION2", "MUT_TOUGH", "SNARL", "EATPOISON" ]
+        }
+      ]
+    }
   }
 ]
