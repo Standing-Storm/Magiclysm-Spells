@@ -6,5 +6,29 @@
       "name": { "str": "Scroll of Vegetative Poultice", "str_pl": "Scrolls of Vegetative Poultice" },
       "description": "Before modern medicine, druids were the healers for their communities.",
       "use_action": { "type": "learn_spell", "spells": [ "druid_bandage_heal" ] }
+    },
+    {
+      "type": "BOOK",
+      "copy-from": "spell_scroll",
+      "id": "spell_scroll_verdant_empowerment",
+      "name": { "str": "Scroll of Verdant Empowerment", "str_pl": "Scrolls of Verdant Empowerment" },
+      "description": "Most druids live in harmony with nature, but some become one with it.",
+      "use_action": { "type": "learn_spell", "spells": [ "druid_verdant" ] }
+    },
+    {
+      "type": "BOOK",
+      "copy-from": "spell_scroll",
+      "id": "spell_scroll_druid_whispers",
+      "name": { "str": "Scroll of Whispers of the Leaves", "str_pl": "Scrolls of Whispers of the Leaves" },
+      "description": "Listen to the secrets of the forest, carried on the wind through the leaves.",
+      "use_action": { "type": "learn_spell", "spells": [ "druid_whispers" ] }
+    },
+    {
+      "type": "BOOK",
+      "copy-from": "spell_scroll",
+      "id": "spell_scroll_druid_nature_guardian",
+      "name": { "str": "Scroll of Nature's Guardian", "str_pl": "Scrolls of Nature's Guardian" },
+      "description": "Based on the infamous 'Cause Bear' spell, summon a bear that actually wants to defend the druid.",
+      "use_action": { "type": "learn_spell", "spells": [ "druid_nature_guardian" ] }
     }
   ]
