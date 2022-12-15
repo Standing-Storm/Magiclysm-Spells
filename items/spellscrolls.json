@@ -26,7 +26,7 @@
     {
       "type": "BOOK",
       "copy-from": "spell_scroll",
-      "id": "spell_scroll_druid_nature_guardian",
+      "id": "spell_scroll_nature_guardian",
       "name": { "str": "Scroll of Nature's Guardian", "str_pl": "Scrolls of Nature's Guardian" },
       "description": "Based on the infamous 'Cause Bear' spell, summon a bear that actually wants to defend the druid.",
       "use_action": { "type": "learn_spell", "spells": [ "druid_nature_guardian" ] }
