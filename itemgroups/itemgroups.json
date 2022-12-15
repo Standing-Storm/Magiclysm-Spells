@@ -3,6 +3,10 @@
     "type": "item_group",
     "id": "spell_scroll_tier_2",
     "copy-from": "spell_scroll_tier_2",
-    "extend": { "items": [ [ "spell_scroll_druid_bandage", 30 ] }
-    }
+    "extend": { "items": [ [ "spell_scroll_druid_bandage", 30 ],  [ "spell_scroll_natures_commune", 30 ] ] }
+    },
+    
+    
+          [ "spell_scroll_verdant_empowerment", 15],
+      [ "spell_scroll_nature_guardian", 20 ]
   ]
