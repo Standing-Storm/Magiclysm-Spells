@@ -1,0 +1,12 @@
+  [
+    {
+      "type": "mutation",
+      "id": "druid_flower_scent",
+      "name": { "str": "Floral Scent" },
+      "points": 0,
+      "description": "You smell like fresh leaves and healthy bark.",
+      "player_display": true,
+      "types": [ "SCENT" ],
+      "scent_type": "sc_flower"
+    }
+  ]
