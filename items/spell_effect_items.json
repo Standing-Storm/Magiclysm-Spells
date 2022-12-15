@@ -18,12 +18,11 @@
         "condition": "ALWAYS",
         "mutations": [ 
                "BARK",
-               "LEAVES2", 
-               "ROOTS2", 
+               "LEAVES2",
                "ROOTS3", 
                "THORNS", 
                "STR_UP_2",
-	       "WEAKSCENT"
+	       "FLOWER_SCENT"
               ] 
              } 
            ] 
