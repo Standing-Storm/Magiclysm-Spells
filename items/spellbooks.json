@@ -14,5 +14,21 @@
     "symbol": "?",
     "color": "green",
     "use_action": { "type": "learn_spell", "spells": [ "druid_verdant", "druid_whispers", "druid_natures_commune", "druid_feralform" ] }
+  },
+    {
+    "id": "tome_druid_healing",
+    "type": "BOOK",
+    "category": "manuals",
+    "name": { "str": "The Ancient Ways", "str_pl": "copies of The Ancient Ways" },
+    "//": "4 Druid healing spells",
+    "description": "This book has an art piece of a peaceful forest pool on the cover. The text is focuses on druidic magic and its place in pre-modern communities as the main source of healthcare.",
+    "weight": "2500 g",
+    "volume": "2500 ml",
+    "price": 8000,
+    "material": [ "paper" ],
+    "looks_like": "cookbook",
+    "symbol": "?",
+    "color": "green",
+    "use_action": { "type": "learn_spell", "spells": [ "druid_healing_herb", "druid_healing", "druidic_healing", "druid_bandage_heal" ] }
   }
 ]
