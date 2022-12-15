@@ -13,6 +13,12 @@
     },
     {
       "type": "item_group",
+      "id": "spellbook_tier_2",
+      "copy-from": "spellbook_tier_2",
+      "extend": { "items": [ [ "tome_druid_healing", 25] ] }
+    },
+    {
+      "type": "item_group",
       "id": "spellbook_tier_3",
       "copy-from": "spellbook_tier_3",
       "extend": { "items": [ [ "tome_nature", 15] ] }
