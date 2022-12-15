@@ -1,7 +1,7 @@
   [
     {
       "type": "mutation",
-      "id": "druid_flower_scent",
+      "id": "DRUID_FLOWER_SCENT",
       "name": { "str": "Floral Scent" },
       "points": 0,
       "description": "You smell like fresh leaves and healthy bark.",
