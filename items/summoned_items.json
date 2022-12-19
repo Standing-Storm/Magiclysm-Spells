@@ -18,14 +18,14 @@
     "use_action": { "type": "heal", "bandages_power": 4, "bleed": 14, "move_cost": 300 }
   },
  {
-    "type": "AMMO",
     "id": "arrow_druid",
-    "price": 300,
+    "type": "AMMO",
+    "price": 1,
     "name": { "str": "twisted wooden arrow" },
     "symbol": "=",
     "color": "green",
     "looks_like": "arrow_fire_hardened_fletched",
-    "description": "A arrow looking more like it was grown than carved. Despite that, it flies straight and true.",
+    "description": "A arrow that looks more like it was grown than carved. Despite that, it flies straight and true.",
     "material": [ "wood" ],
     "volume": "250 ml",
     "price_postapoc": 1,
@@ -40,6 +40,39 @@
     "count": 10,
     "show_stats": true,
     "critical_multiplier": 10,
-    "effects": [ "COOKOFF", "TRADER_AVOID", "APPLY_SAP" ]
+    "effects": [ "APPLY_SAP" ]
+  },
+  {
+  "type": "GENERIC",
+  "id": "druid_bramble_spear_item",
+  "name": { "str": "spear of brambles" },
+  "description": "A twisted wooden spear whose branches twine together into a vicious point sticky with sap.",
+  "weight": "1500 g",
+  "price_postapoc": 1,
+  "color": "green",
+  "symbol": "/",
+  "material": [ "wood" ],
+  "techniques": [ "WBLOCK_1", "IMPALE" ],
+  "volume": "1350 ml",
+  "longest_side": "170 cm",
+  "bashing": 5,
+  "cutting": 26,
+  "to_hit": { "grip": "weapon", "length": "long", "surface": "point", "balance": "good" },
+  "flags": [
+    "SPEAR",
+    "REACH_ATTACK",
+    "NONCONDUCTIVE",
+    "SHEATH_SPEAR", 
+    "UNBREAKABLE_MELEE",
+    "NO_REPAIR",
+    "NO_SALVAGE",
+    "MAGIC_FOCUS"
+  ],
+  "weapon_category": [
+    "POLEARMS",
+    "SPEARS"
+  ],
+  "price": 1,
+  "qualities": [ [ "COOK", 1 ] ]
   }
 ]
