@@ -41,5 +41,5 @@
     "show_stats": true,
     "critical_multiplier": 10,
     "effects": [ "RECOVER_20", "TRADER_AVOID" ]
-  },
+  }
 ]
