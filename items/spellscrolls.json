@@ -39,14 +39,22 @@
       "description": "The best arrows are grown, not made.",
       "use_action": { "type": "learn_spell", "spells": [ "druid_harvest_hunter" ] }
     },
-        {
-	      "type": "BOOK",
-	      "copy-from": "spell_scroll",
-	      "id": "spell_scroll_thorn_skin",
-	      "name": { "str": "Scroll of Thornskin", "str_pl": "Scrolls of Thornskin" },
-	      "description": "The proper version of the 'Tornskin' spell.",
-	      "use_action": { "type": "learn_spell", "spells": [ "druid_thorn_skin" ] }
-	    }
+		{
+			"type": "BOOK",
+			"copy-from": "spell_scroll",
+			"id": "spell_scroll_thorn_skin",
+			"name": { "str": "Scroll of Thornskin", "str_pl": "Scrolls of Thornskin" },
+			"description": "The proper version of the 'Tornskin' spell.",
+			"use_action": { "type": "learn_spell", "spells": [ "druid_thorn_skin" ] }
+		},
+		{
+			"type": "BOOK",
+			"copy-from": "spell_scroll",
+			"id": "spell_scroll_druid_bramble_spear",
+			"name": { "str": "Scroll of Spear of Brambles", "str_pl": "Scrolls of Spear of Brambles" },
+			"description": "Turn a stick into an all-natural weapon.",
+			"use_action": { "type": "learn_spell", "spells": [ "druid_bramble_spear" ] }
+		}
   ]
 
 
