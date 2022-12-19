@@ -8,7 +8,7 @@
 	    "flags": [ "RANDOM_DAMAGE" ],
 	    "shape": "blast",
 	    "effect": "attack",
-	    "damage_type": "pierce",
+	    "damage_type": "stab",
 	    "min_damage": 2,
 	    "max_damage": 6,
 	    "min_range": 1,
