@@ -167,5 +167,6 @@
 		"min_duration": 360000,
 		"max_duration": 2160000,
 		"duration_increment": 72000
-	}
+	},
+	
 ]
