@@ -1,15 +1,15 @@
   [
+     {
+      "type": "item_group",
+      "id": "spell_scroll_tier_1"
+      "copy-from": "spell_scroll_tier1",
+      "extend": { "items": [ [ "spell_scroll_druid_harvest", 25 ] ] }
+    },
     {
       "type": "item_group",
       "id": "spell_scroll_tier_2",
       "copy-from": "spell_scroll_tier_2",
       "extend": { "items": [ [ "spell_scroll_druid_bandage", 30 ] ] }
-    },
-    {
-      "type": "item_group",
-      "id": "spell_scroll_tier_1"
-      "copy-from": "spell_scroll_tier1",
-      "extend": { "items": [ [ "spell_scroll_druid_harvest", 25 ] ] }
     },
     {
       "type": "item_group",
