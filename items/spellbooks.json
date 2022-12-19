@@ -4,7 +4,7 @@
     "type": "BOOK",
     "category": "manuals",
     "name": { "str": "On Unity With Nature", "str_pl": "copies of On Unity With Nature" },
-    "//": "4 Druid spells",
+    "//": "5 Druid spells",
     "description": "This book appears to be made of heavy parchment and bound in animal hide. It claims that man is a part of the natural world, not something set above it. Through magic, it is possible to become even more in tune with life.",
     "weight": "3000 g",
     "volume": "2500 ml",
@@ -13,7 +13,7 @@
     "looks_like": "cookbook",
     "symbol": "?",
     "color": "green",
-    "use_action": { "type": "learn_spell", "spells": [ "druid_verdant", "druid_whispers", "druid_natures_commune", "druid_feralform" ] }
+    "use_action": { "type": "learn_spell", "spells": [ "druid_verdant", "druid_whispers", "druid_natures_commune", "druid_feralform", "druid_thorn_skin" ] }
   },
     {
     "id": "tome_druid_healing",
