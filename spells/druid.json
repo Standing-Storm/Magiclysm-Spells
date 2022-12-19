@@ -166,6 +166,6 @@
 		"energy_increment": -13.333,
 		"min_duration": 360000,
 		"max_duration": 2160000,
-		"duration_increment": 72000,
+		"duration_increment": 72000
 	}
 ]
