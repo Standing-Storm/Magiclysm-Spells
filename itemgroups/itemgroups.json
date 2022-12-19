@@ -9,7 +9,7 @@
       "type": "item_group",
       "id": "spell_scroll_tier_2",
       "copy-from": "spell_scroll_tier_2",
-      "extend": { "items": [ [ "spell_scroll_druid_bandage", 30 ] ] }
+      "extend": { "items": [ [ "spell_scroll_druid_bandage", 30 ], [ "spell_scroll_thorn_skin", 35 ] ] }
     },
     {
       "type": "item_group",
