@@ -128,7 +128,7 @@
 		"description": "This spell transforms the druid's skin into a bark-like consistency covered in large thorns.",
 		"valid_targets": [ "self" ],
 		"effect": "spawn_item",
-		"effect_str": "druid_thorn_sin",
+		"effect_str": "druid_thorn_skin",
 		"shape": "blast",
 		"energy_source": "MANA",
 		"flags": [ "CONCENTRATE", "VERBAL", "NO_LEGS", "NO_HANDS" ],
