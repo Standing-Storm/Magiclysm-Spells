@@ -177,6 +177,7 @@
 		"flags": [ "CONCENTRATE", "VERBAL", "SOMATIC" ],
 		"effect": "spawn_item",
 		"effect_str": "druid_bramble_spear_item",
+		"components": "spell_components_druid_bramble_spear",
 		"shape": "blast",
 		"energy_source": "MANA",
 		"spell_class": "DRUID",
