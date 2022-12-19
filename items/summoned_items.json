@@ -76,7 +76,7 @@
     ],
     "price": 1,
     "qualities": [ [ "COOK", 1 ] ],  
-    "relic_data": { "passive_effects": [ { "has": "WIELD", "values": [ { "value": "ITEM_DAMAGE_BIO", "add": 10 } ] } ] }
+    "relic_data": { "passive_effects": [ { "has": "WIELD", "hit_you_effect": [ { "id": "bramble_spear_slow",  "hit_self": false } ] } ] }
   }
   
 ]
