@@ -3,7 +3,7 @@
       "type": "item_group",
       "id": "spell_scroll_tier_1",
       "copy-from": "spell_scroll_tier_1",
-      "extend": { "items": [ [ "spell_scroll_druid_harvest", 25 ] ] }
+      "extend": { "items": [ [ "spell_scroll_druid_harvest", 25 ],  [ "spell_scroll_druid_bramble_spear", 35 ] ] }
     },
     {
       "type": "item_group",
