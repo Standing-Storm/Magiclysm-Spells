@@ -9,7 +9,7 @@
     ]
    },
    {
-     "id": "spell_components_druid_bandage",
+     "id": "spell_components_druid_arrow",
      "type": "requirement",
      "//": "Sticks for the for the Harvest of the Hunter spell",
      "components": [
