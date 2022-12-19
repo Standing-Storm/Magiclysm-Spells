@@ -7,5 +7,13 @@
       [ [ "young_leaves", 2 ], [ "grape_leaves", 2 ], ["fiddlehead_raw", 2], ["cattail_rhizome", 2], ["raw_dandelion", 2], ["juniper", 2 ] ],
       [ [ "alder_bark", 1 ], [ "tanbark", 1 ], [ "birchbark", 1 ], [ "willowbark", 1 ] ]
     ]
+   },
+   {
+     "id": "spell_components_druid_bandage",
+     "type": "requirement",
+     "//": "Sticks for the for the Harvest of the Hunter spell",
+     "components": [
+       [ [ "pine_bough", 2 ], [ "stick", 2 ], ["stick_long", 2], ["stick_fiber", 2] ],
+    ]
    }
  ]
