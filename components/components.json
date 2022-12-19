@@ -13,7 +13,7 @@
      "type": "requirement",
      "//": "Sticks for the for the Harvest of the Hunter spell",
      "components": [
-       [ [ "pine_bough", 2 ], [ "stick", 2 ], ["stick_long", 2], ["stick_fiber", 2] ],
+       [ [ "pine_bough", 2 ], [ "stick", 2 ], ["stick_long", 2], ["stick_fiber", 2] ]
     ]
    }
  ]
