@@ -38,7 +38,15 @@
       "name": { "str": "Scroll of Harvest of the Hunter", "str_pl": "Scrolls of Harvest of the Hunter" },
       "description": "The best arrows are grown, not made.",
       "use_action": { "type": "learn_spell", "spells": [ "druid_harvest_hunter" ] }
-    }
+    },
+        {
+	      "type": "BOOK",
+	      "copy-from": "spell_scroll",
+	      "id": "spell_scroll_thorn_skin",
+	      "name": { "str": "Scroll of Thorn Skin", "str_pl": "Scrolls of Thorn Skin" },
+	      "description": "The proper version of the 'Tornskin' spell.",
+	      "use_action": { "type": "learn_spell", "spells": [ "druid_thorn_skin" ] }
+	    }
   ]
 
 
