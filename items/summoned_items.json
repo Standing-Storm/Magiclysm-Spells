@@ -15,6 +15,6 @@
     "charges": 3,
     "stack_size": 9,
     "flags": [ "NO_INGEST", "EDIBLE_FROZEN" ],
-    "use_action": { "type": "heal", "bandages_power": 6, "bleed": 20, "move_cost": 300 }
+    "use_action": { "type": "heal", "bandages_power": 5, "bleed": 14, "move_cost": 300 }
   }
 ]
