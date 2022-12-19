@@ -142,7 +142,7 @@
 		"min_duration": 24000,
 		"max_duration": 360000,
 		"duration_increment": 24000,
-		"learn_spells": { "druid_thorn_skin_enhanced": 15
+		"learn_spells": { "druid_thorn_skin_enhanced": 15 }
 	},
 	{
 		"id": "druid_thorn_skin_enhanced",
