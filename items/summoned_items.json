@@ -40,6 +40,6 @@
     "count": 10,
     "show_stats": true,
     "critical_multiplier": 10,
-    "effects": [ "RECOVER_35", "TRADER_AVOID" ]
+    "effects": [ "RECOVER_35", "TRADER_AVOID", "APPLY_SAP" ]
   }
 ]
