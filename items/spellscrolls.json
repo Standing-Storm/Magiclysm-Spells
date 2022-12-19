@@ -43,7 +43,7 @@
 	      "type": "BOOK",
 	      "copy-from": "spell_scroll",
 	      "id": "spell_scroll_thorn_skin",
-	      "name": { "str": "Scroll of Thorn Skin", "str_pl": "Scrolls of Thorn Skin" },
+	      "name": { "str": "Scroll of Thornskin", "str_pl": "Scrolls of Thornskin" },
 	      "description": "The proper version of the 'Tornskin' spell.",
 	      "use_action": { "type": "learn_spell", "spells": [ "druid_thorn_skin" ] }
 	    }
