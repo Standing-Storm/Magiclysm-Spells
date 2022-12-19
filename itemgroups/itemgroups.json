@@ -7,6 +7,12 @@
     },
     {
       "type": "item_group",
+      "id": "spell_scroll_tier_1"
+      "copy-from": "spell_scroll_tier1",
+      "extend": { "items": [ [ "spell_scroll_druid_harvest", 25 ] ] }
+    },
+    {
+      "type": "item_group",
       "id": "spell_scroll_tier_3",
       "copy-from": "spell_scroll_tier_3",
       "extend": { "items": [ [ "spell_scroll_verdant_empowerment", 15], [ "spell_scroll_nature_guardian", 20 ] ] }
