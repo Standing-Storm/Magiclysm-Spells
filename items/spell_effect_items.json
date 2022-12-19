@@ -57,8 +57,11 @@
 					"hit_me_effect": [ { "id": "thorn_skin_attacked" ,  "hit_self": false } ],
 	        "values": [ 
 						{ "value": "DEXTERITY", "add": -1 },
-						{ "LIMATE_CONTROL_HEAT", "add": 20 },
-						
+						{ "value": "STRENGTH", "add": 1 },
+						{ "value": "CLIMATE_CONTROL_HEAT", "add": 20 },
+						{ "value": "ARMOR_HEAT", "add": -5 },
+						{ "value": "ARMOR_ELEC", "add": 5 },
+						{ "value": "ARMOR_STAB", "add": 10 }
 	               
 	              ] 
 	             } 
