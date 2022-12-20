@@ -31,7 +31,8 @@
     "flags": [
       "BELTED",
       "OVERSIZE",
-      "WATER_FRIENDLY"
+      "WATER_FRIENDLY",
+      "TARDIS"
     ],
     "armor": [
       {
