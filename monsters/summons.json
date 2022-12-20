@@ -1,0 +1,11 @@
+[
+  {
+    "id": "mon_bear_nature_guardian",
+    "type": "MONSTER",
+    "copy-from": "mon_bear",
+    "description": "A bear summoned through druidic magic, ready to rend the enemies of nature.",
+    "default_faction": "bear",
+    "anger_triggers": "HOSTILE_SEEN",
+    "flags": [ "SEES", "HEARS", "SMELLS", "ANIMAL", "WARM", "BASHES", "PUSH_MON" ]
+  }
+]
