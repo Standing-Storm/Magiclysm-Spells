@@ -16,7 +16,7 @@ DRUID SPELLS
 
 EARTHSHAPER SPELLS
 
-1) Reading the Earthbones: Reveal the world map (at max level, as well as a lookout tower)
+1) Reading the Earthbones: Reveal the world map (at max level, as well as a radio tower)
 
 WEAPONS
 
