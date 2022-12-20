@@ -23,6 +23,6 @@
 		"count": 10,
 		"show_stats": true,
 		"critical_multiplier": 10,
-		"effects": [ "TANGLE", "RECOVER_20" ]
+		"effects": [ "TANGLE", "RECOVER_35" ]
 	}
 ]
