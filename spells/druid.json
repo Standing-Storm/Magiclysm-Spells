@@ -241,7 +241,7 @@
 	    "damage_increment": 2.5,
 	    "min_range": 8,
 	    "max_range": 15,
-	    "range_increment": .35,
+	    "range_increment": 0.35,
 	    "min_aoe": 2,
 	    "max_aoe": 10,
 	    "aoe_increment": 0.4,
