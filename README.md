@@ -1,4 +1,4 @@
-# New spells for magiclysm
+# New Content for Magiclysm
 
 This mod just adds a few spells and other things I've written to the Magiclysm mod.
 
