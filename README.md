@@ -17,3 +17,7 @@ DRUID SPELLS
 EARTHSHAPER SPELLS
 
 1) Reading the Earthbones: Reveal the world map (at max level, as well as a lookout tower)
+
+AMMO
+
+1) Tangler arrows: Arrows with a druid rune on the arrowhead, they unleash a storm of slowing vegetation on their target on impact.
