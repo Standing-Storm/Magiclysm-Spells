@@ -4,8 +4,8 @@
 		"type": "TOOL",
 		"category": "weapons",
 		"name": {
-			"str": "druidic runefang",
-			"str_pl": "druidic runefangs"
+			"str": "Druidic runefang",
+			"str_pl": "Druidic runefangs"
 		},
 		"looks_like": "primitive_knife",
 		"description": "A primitive-looking weapon made out of wood and animal parts. Despite that, it cuts as well as a steel knife. Druidic runes are inlaid into the hilt and the pommel",
