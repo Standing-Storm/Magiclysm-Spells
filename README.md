@@ -18,6 +18,10 @@ EARTHSHAPER SPELLS
 
 1) Reading the Earthbones: Reveal the world map (at max level, as well as a lookout tower)
 
+WEAPONS
+
+1) Druidic Runefang: A crafted melee weapon focus for druids, allowing them to cast spells while using it. 
+
 AMMO
 
 1) Tangler arrows: Arrows with a druid rune on the arrowhead, they unleash a storm of slowing vegetation on their target on impact.
