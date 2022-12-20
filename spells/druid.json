@@ -101,6 +101,9 @@
     "description": "This spell summons a fierce bear that will defend you against your enemies.",
     "valid_targets": [ "ground" ],
 		"flags": [ "CONCENTRATE", "VERBAL", "SOMATIC", "NO_LEGS" ],
+		"shape": "blast",
+		"effect": "summon",
+	  "effect_str": "mon_bear_nature_guardian",
     "min_damage": 1,
     "max_damage": 1,
     "min_range": 3,
@@ -117,9 +120,6 @@
     "base_energy_cost": 675,
     "final_energy_cost": 475,
     "energy_increment": -5.0,
-    "shape": "blast",
-    "effect": "summon",
-    "effect_str": "mon_bear"
   },
 	{
 		"id": "druid_thorn_skin",
