@@ -23,7 +23,8 @@
       { 
         "ammo_restriction": { 
           "arrow": 40,      
-          "bolt": 40
+          "bolt": 40,
+          "arrow_orichalcum": 40
         },
         "moves": 20
       }
