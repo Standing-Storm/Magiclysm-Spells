@@ -12,7 +12,8 @@ DRUID SPELLS
 4) Nature's Guardian: Summon a bear who actually wants to defend you and slay your enemies.
 5) Harvest of the Hunter: Create magical slowing arrows out of natural ingredients
 6) Thornskin: A small bit of armor and thorns that damage your attackers (+Enhanced version)
-7) Spear of Brambles: Turn a stick into a thorny spear
+7) Spear of Brambles: Turn a stick into a thorny spear (+Enhanced version that removes spell component)
+8) Vengeance of Nature: Enhanced version of Vegetative Grasp, powerful enough to shatter buildings.
 
 EARTHSHAPER SPELLS
 
