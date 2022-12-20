@@ -54,7 +54,15 @@
 			"name": { "str": "Scroll of Spear of Brambles", "str_pl": "Scrolls of Spear of Brambles" },
 			"description": "Turn a stick into an all-natural weapon.",
 			"use_action": { "type": "learn_spell", "spells": [ "druid_bramble_spear" ] }
-		}
+		},
+		{
+      "type": "BOOK",
+      "copy-from": "spell_scroll",
+      "id": "spell_scroll_earthshaper_reveal_world_map",
+      "name": { "str": "Scroll of Reading the Earthbones", "str_pl": "Scrolls of Reading the Earthbone" },
+      "description": "Use magic to reveal nearby terrain .",
+      "use_action": { "type": "learn_spell", "spells": [ "earthshaper_reveal_world_map" ] }
+    }
   ]
 
 
