@@ -231,7 +231,7 @@
 		"description": "Your Vegetative Grasp is so powerful it can shatter stone and flesh alike. Best not to cast this indoors.",
 		"valid_targets": [ "hostile", "ground" ],
 		"spell_class": "NONE",
-		"flags": [ "CONCENTRATE", "LOUD", "EXTRA_EFFECTS_FIRST", "IGNORE_WALLS" ],
+		"flags": [ "VERBAL", "SOMATIC", "LOUD", "EXTRA_EFFECTS_FIRST", "IGNORE_WALLS" ],
 		"effect": "bash",
 	    "shape": "blast",
 	    "difficulty": 6,
@@ -254,7 +254,7 @@
 	    "casting_time_increment": -7.5,
 	    "extra_effects": [ { "id": "druid_vengeance_explosion_damage", "hit_self": false, "max_level": 20 } ],
 	    "sound_type": "combat",
-	    "sound_description": "the rumble of stone and the groaning of wood"
+	    "sound_description": "the rumble of stone and the creaking of wood"
 },
 	  {
 			"id": "druid_vengeance_explosion_damage",
