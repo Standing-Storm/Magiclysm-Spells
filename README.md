@@ -13,3 +13,7 @@ DRUID SPELLS
 5) Harvest of the Hunter: Create magical slowing arrows out of natural ingredients
 6) Thornskin: A small bit of armor and thorns that damage your attackers (+Enhanced version)
 7) Spear of Brambles: Turn a stick into a thorny spear
+
+EARTHSHAPER SPELLS
+
+1) Reading the Earthbones: Reveal the world map (at max level, as well as a lookout tower)
