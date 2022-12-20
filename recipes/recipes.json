@@ -32,7 +32,7 @@
 	    "qualities": [ { "id": "CUT", "level": 2 }, { "id": "MANA_INFUSE", "level": 2 } ],
 	    "proficiencies": [ { "proficiency": "prof_carving" }, { "proficiency": "prof_alchemy" } ],
 	    "components": [
-	      [ [ "demon_spider_fang", 1 ], [ "stirge_proboscis", 1 ] ],
+	      [ [ "demon_spider_fang", 1 ], [ "stirge_proboscis", 1 ], [ "bone", 10 ], [ "bone_demihuman", 10 ] ],
 	      [ [ "stick", 1 ], [ "stick_long", 1 ], [ "broom", 1 ], [ "2x4", 1 ], [ "mop", 1 ] ],
 	      [ [ "cordage_short", 2, "LIST" ], [ "filament", 40, "LIST" ], [ "duct_tape", 40 ] ],
 	      [ [ "rune_druid", 2 ] ]
