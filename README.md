@@ -9,7 +9,7 @@ DRUID SPELLS
 1) Verdant Form: Turn into a tree-man and blend into the wilderness
 2) Whisper of the Leaves: Speak to the forest and gain its wisdom [currently not working, mutations provided by enchantments are bugged]
 3) Vegetative Poultice: Who needs modern coagulants when you have bark and leaves? 
-4) Nature's Guardian: Summon a bear who actually wants to defend you.
+4) Nature's Guardian: Summon a bear who actually wants to defend you and slay your enemies.
 5) Harvest of the Hunter: Create magical slowing arrows out of natural ingredients
 6) Thornskin: A small bit of armor and thorns that damage your attackers (+Enhanced version)
 7) Spear of Brambles: Turn a stick into a thorny spear
