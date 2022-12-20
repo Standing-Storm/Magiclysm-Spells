@@ -25,3 +25,4 @@ WEAPONS
 AMMO
 
 1) Tangler arrows: Arrows with a druid rune on the arrowhead, they unleash a storm of slowing vegetation on their target on impact.
+2) Quiver of Holding: Contains twice as many arrows as a regular quiver but doesn't weigh any more.
