@@ -1,0 +1,66 @@
+[
+  {
+    "id": "rune_druid_weapon_melee",
+    "name": { "str": "Druidic Runefang" },
+    "description": "A primitive-looking weapon made out of wood and animal fangs. Despite that, it cuts as well as a steel knife. A druidic rune is inlaid into the hilt.",
+	    "weight": "560 g",
+	    "to_hit": 2,
+	    "color": "bbrown",
+	    "symbol": "/",
+	    "looks_like": "warhammer",
+	    "material": [ "concentrated_mana" ],
+	    "techniques": [ "WBLOCK_2", "BRUTAL", "SWEEP" ],
+	    "flags": [
+	      "NONCONDUCTIVE",
+	      "BELT_CLIP",
+	      "UNBREAKABLE_MELEE",
+	      "NO_REPAIR",
+	      "NO_SALVAGE",
+	      "MAGIC_FOCUS"
+	    ],
+	    "volume": "500 ml",
+	    "bashing": 30,
+	    "qualities": [ [ "CUT", 2 ] ]
+	  },
+
+{
+  "id": "rune_druid_weapon_melee",
+  "type": "TOOL",
+  "category": "weapons",
+  "name": {
+    "str": "druidic runefang",
+    "str_pl": "druidic runefangs"
+  },
+  "description": "A primitive-looking weapon made out of wood and animal fangs. Despite that, it cuts as well as a steel knife. Druidic runes are inlaid into the hilt and the pommel",
+  "weight": "580 g",
+  "volume": "520 ml",
+  "longest_side": "30 cm",
+  "price": 30000,
+  "price_postapoc": 2950,
+  "to_hit": {
+    "grip": "weapon",
+    "length": "hand",
+    "surface": "point",
+    "balance": "good"
+  },
+  "bashing": 4,
+  "cutting": 26,
+  "material": [
+    "wood",
+    "bone"
+  ],
+  "symbol": ";",
+  "color": "green",
+  "techniques": [ "RAPID", "PRECISE" ],
+  "qualities": [ [ "CUT", 2 ], [ "CUT_FINE", 1 ], [ "BUTCHER", 50 ] ],
+  "thrown_damage": [ { "damage_type": "stab", "amount": 14 } ],
+  "flags": [
+    "STAB",
+    "DURABLE_MELEE",
+    "SHEATH_KNIFE",
+    "NPC_THROWN",
+    "TRADER_AVOID",
+    "MAGIC_FOCUS"
+  ],
+  "weapon_category": [ "KNIVES" ]
+}
