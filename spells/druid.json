@@ -222,7 +222,7 @@
 		"id": "druid_veggrasp",
 		"type": "SPELL",
 		"copy-from": "druid_veggrasp",
-		"extend": { "learn_spells": { "druid_vengeance_of_nature": 20 } }
+		"learn_spells": { "druid_vengeance_of_nature": 20 }
 	},
 	{
 		"id": "druid_vengeance_of_nature",
