@@ -2,18 +2,14 @@
   {
     "id": "quiver_of_holding",
     "type": "ARMOR",
-    "name": {
-      "str": "quiver of holding" 
-    }, 
+    "name": { "str": "quiver of holding" }, 
     "description": "A quiver enchanted to hold 40 arrows or bolts while not taking up any more space than a normal quiver. Rarely made after the invention of firearms.",
     "weight": "260 g", 
     "volume": "500 ml", 
     "price": 6500, 
     "price_postapoc": 1000, 
     "bashing": 2, 
-    "material": [ 
-      "leather" 
-    ], 
+    "material": [ "leather" ], 
     "symbol": "[", 
     "looks_like": "quiver", 
     "color": "brown", 
