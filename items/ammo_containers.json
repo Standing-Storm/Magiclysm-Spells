@@ -26,6 +26,8 @@
           "bolt": 40,
           "arrow_orichalcum": 40
         },
+        "weight_multiplier": 0.5,
+        "volume_multiplier": 0.5,
         "moves": 20
       }
     ],
