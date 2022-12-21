@@ -13,7 +13,7 @@ DRUID SPELLS
 5) Harvest of the Hunter: Create magical slowing arrows out of natural ingredients
 6) Thornskin: A small bit of armor and thorns that damage your attackers (+Enhanced version)
 7) Spear of Brambles: Turn a stick into a thorny spear (+Enhanced version that removes spell component)
-8) Vengeance of Nature: Enhanced version of Vegetative Grasp, powerful enough to shatter buildings.
+8) Vengeance of Nature: Enhanced version of Vegetative Grasp, powerful enough to shatter buildings (learned from maxing Vegetative Grasp)
 
 EARTHSHAPER SPELLS
 
