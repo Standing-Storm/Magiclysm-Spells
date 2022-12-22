@@ -24,5 +24,14 @@
 		"show_stats": true,
 		"critical_multiplier": 10,
 		"effects": [ "TANGLE", "RECOVER_35" ]
-	}
+	},
+	 {
+			"id": "arrow_stormshaper_crafted",
+			"type": "AMMO",
+			"copy-from": "arrow_druid_crafted",
+			"name": { "str": "tangler arrow" },
+			"color": "purple",
+			"description": "An arrow with a stormshaper rune in the arrowhead. It trails lightning and stuns the target.",
+			"effects": [ "LIGHTNING", "BEANBAG", "RECOVER_35" ]
+		}
 ]
