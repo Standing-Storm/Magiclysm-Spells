@@ -8,7 +8,7 @@
 		"color": "green",
 		"//": "This would cast an AoE entangle on impact if I can find a way to do that. Until then, single target.",
 		"looks_like": "arrow_fire_hardened_fletched",
-		"description": "An arrow with a druid rune in the arrowhead. It unleashes a storm of slowing vegetation on its target.",
+		"description": "An arrow with a fragment of a druid rune in the arrowhead. It unleashes a storm of slowing vegetation on its target.",
 		"material": [ "wood" ],
 		"volume": "250 ml",
 		"price_postapoc": 25,
@@ -31,7 +31,7 @@
 			"copy-from": "arrow_druid_crafted",
 			"name": { "str": "tangler arrow" },
 			"color": "purple",
-			"description": "An arrow with a stormshaper rune in the arrowhead. It trails lightning and stuns the target.",
+			"description": "An arrow with a fragment of a stormshaper rune in the arrowhead. It trails lightning and stuns the target.",
 			"effects": [ "LIGHTNING", "BEANBAG", "RECOVER_35" ]
 		}
 ]
