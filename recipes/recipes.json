@@ -19,6 +19,25 @@
 		]
 	},
 	{
+			"type": "recipe",
+			"activity_level": "LIGHT_EXERCISE",
+			"result": "arrow_stormshaper_crafted",
+			"category": "CC_AMMO",
+			"subcategory": "CSC_AMMO_ARROWS",
+			"skill_used": "fabrication",
+			"skills_required": [ [ "spellcraft", 2], ["survival", 2 ] ],
+			"difficulty": 1,
+			"time": "15 m",
+			"autolearn": true,
+			"proficiencies": [ { "proficiency": "prof_carving" }, { "proficiency": "prof_fletching", "required": false, "time_multiplier": 1.8 } ],
+			"qualities": [ { "id": "CUT", "level": 1 }, { "id": "MANA_INFUSE", "level": 1 } ],
+			"components": [
+				[ [ "stick", 1 ], [ "stick_long", 1 ], [ "broom", 1 ], [ "2x4", 1 ], [ "mop", 1 ] ],
+				[ [ "fletching", 1, "LIST" ] ],
+				[ [ "rune_stormshaper", 1 ] ]
+			]
+		},
+	{
 		"type": "recipe",
 		"activity_level": "LIGHT_EXERCISE",
 		"result": "rune_druid_weapon_melee",
