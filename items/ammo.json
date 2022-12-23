@@ -59,8 +59,15 @@
 		"name": { "str": "visceral arrow" },
 		"color": "purple",
 		"description": "A disturbing bone arrow with a fragment of a biomancer rune in the arrowhead. It showers its target in acid.",
-		"effects": [ "ACIDBOMB" "RECOVER_35" ]
+		"effects": [ "ACIDBOMB", "RECOVER_35" ]
+	},
+	{
+		"id": "arrow_technomancer_crafted",
+		"type": "AMMO",
+		"copy-from": "arrow_druid_crafted",
+		"name": { "str": "sparking arrow" },
+		"color": "purple",
+		"description": "A metallic arrow with a fragment of a technomancer rune in the arrowhead. It destroys electronic targets.",
+		"effects": [ "EMP", "DRAW_LASER_BEAM", "RECOVER_35" ]
 	}
-	
-	
 ]
