@@ -3,7 +3,7 @@
     "id": "earthshaper_reveal_world_map",
     "type": "SPELL",
     "name": "Reading the Earthbones",
-    "description": "You extend your senses into the ground, becoming away of every hill and valley within a large area.",
+    "description": "You extend your senses into the ground, becoming aware of every hill and valley within a large area.",
     "valid_targets": [ "none" ],
      "flags": [ "NO_HANDS", "CONCENTRATE", "SILENT" ],
     "effect": "map",
