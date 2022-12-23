@@ -38,7 +38,7 @@
 		"id": "arrow_earthshaper_crafted",
 		"type": "AMMO",
 		"copy-from": "arrow_druid_crafted",
-		"name": { "str": "tangler arrow" },
+		"name": { "str": "avalanche arrow" },
 		"color": "light_gray",
 		"description": "An arrow with a fragment of a earthshaper rune in the arrowhead. It hits the target with the force of an avalanche.",
 		"effects": [ "LARGE_BEANBAG", "RECOVER_35" ]
