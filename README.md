@@ -26,4 +26,8 @@ WEAPONS
 AMMO
 
 1) Tangler arrows: Arrows with a druid rune on the arrowhead, they unleash a storm of slowing vegetation on their target on impact.
-2) Quiver of Holding: Contains twice as many arrows as a regular quiver but doesn't weigh any more.
+2) Visceral arrows: Arrows with a biomancer rune on the arrowhead, they cover their targets in acid.
+3) Fireball arrows: Arrows with a kelvinist rune on the arrowhead, they explode into flames when they strike.
+4) Avalanche arrows: Arrows with an earthshaper rune on the arrowhead, they stun their targets.
+5) Thunderclap arrows: Arrows with a stormshaper rune on the arrowhead, they explode like a thunderclap and blind their targets.
+6) Quiver of Holding: Contains twice as many arrows as a regular quiver but doesn't weigh any more.
