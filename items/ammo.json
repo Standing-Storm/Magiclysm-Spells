@@ -52,6 +52,15 @@
 		"description": "An arrow with a fragment of a kelvinist rune in the arrowhead. It explodes into a firestorm.",
 		"effects": [ "NAPALM", "RECOVER_35" ]
 	},
+		{
+		"id": "arrow_biomancer_crafted",
+		"type": "AMMO",
+		"copy-from": "arrow_druid_crafted",
+		"name": { "str": "visceral arrow" },
+		"color": "purple",
+		"description": "A disturbing bone arrow with a fragment of a biomancer rune in the arrowhead. It showers its target in acid.",
+		"effects": [ "ACIDBOMB" "RECOVER_35" ]
+	}
 	
 	
 ]
