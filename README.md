@@ -30,4 +30,5 @@ AMMO
 3) Fireball arrows: Arrows with a kelvinist rune on the arrowhead, they explode into flames when they strike.
 4) Avalanche arrows: Arrows with an earthshaper rune on the arrowhead, they stun their targets.
 5) Thunderclap arrows: Arrows with a stormshaper rune on the arrowhead, they explode like a thunderclap and blind their targets.
-6) Quiver of Holding: Contains twice as many arrows as a regular quiver but doesn't weigh any more.
+6) Sparking arrows: Arrows with a technomancer rune on the arrowhead, they destroy robots or computers.
+7) Quiver of Holding: Contains twice as many arrows as a regular quiver but doesn't weigh any more.
