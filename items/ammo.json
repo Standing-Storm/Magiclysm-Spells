@@ -29,9 +29,19 @@
 			"id": "arrow_stormshaper_crafted",
 			"type": "AMMO",
 			"copy-from": "arrow_druid_crafted",
+			"name": { "str": "thunderclap arrow" },
+			"color": "purple",
+			"description": "An arrow with a fragment of a stormshaper rune in the arrowhead. It trails lightning and explodes with a crash of thunder.",
+			"effects": [ "LIGHTNING", "FLASHBANG", "RECOVER_35" ]
+		},
+		 {
+			"id": "arrow_earthshaper_crafted",
+			"type": "AMMO",
+			"copy-from": "arrow_druid_crafted",
 			"name": { "str": "tangler arrow" },
 			"color": "purple",
-			"description": "An arrow with a fragment of a stormshaper rune in the arrowhead. It trails lightning and stuns the target.",
-			"effects": [ "LIGHTNING", "BEANBAG", "RECOVER_35" ]
-		}
+			"description": "An arrow with a fragment of a earthshaper rune in the arrowhead. It hits the target with the force of an avalanche.",
+			"effects": [ "LARGE_BEANBAG", "RECOVER_35" ]
+		},
+	
 ]
