@@ -67,8 +67,7 @@
       "SHEATH_SPEAR", 
       "UNBREAKABLE_MELEE",
       "NO_REPAIR",
-      "NO_SALVAGE",
-      "MAGIC_FOCUS"
+      "NO_SALVAGE"
     ],
     "weapon_category": [
       "POLEARMS",
