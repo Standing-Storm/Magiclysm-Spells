@@ -2,7 +2,7 @@
   {
 		"id": "arrow_druid_crafted",
 		"type": "AMMO",
-		"price": 1500,
+		"price": 150,
 		"name": { "str": "sap-coated arrow" },
 		"symbol": "=",
 		"color": "green",
