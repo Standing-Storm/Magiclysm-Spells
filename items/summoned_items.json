@@ -26,7 +26,7 @@
     "symbol": "=",
     "color": "green",
     "looks_like": "arrow_fire_hardened_fletched",
-    "description": "A arrow that looks more like it was grown than carved. Despite that, it flies straight and true.",
+    "description": "A arrow that looks more like it was grown than carved. Despite that, it flies straight and true. It explodes into a mass of entangling vegetation when it hits its target.",
     "material": [ "wood" ],
     "volume": "250 ml",
     "price_postapoc": 1,
@@ -41,7 +41,7 @@
     "count": 10,
     "show_stats": true,
     "critical_multiplier": 10,
-    "effects": [ "APPLY_SAP" ]
+    "effects": [ "TANGLE" ]
   },
   {
     "type": "GENERIC",
