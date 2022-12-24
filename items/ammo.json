@@ -47,7 +47,7 @@
 		"type": "AMMO",
 		"copy-from": "arrow_kelvinist_crafted",
 		"name": { "str": "fireball arrow" },
-		"color": "purple",
+		"color": "red",
 		"description": "An arrow with a fragment of a kelvinist rune in the arrowhead. It explodes into a firestorm.",
 		"effects": [ "NAPALM", "RECOVER_35" ]
 	},
@@ -56,7 +56,8 @@
 		"type": "AMMO",
 		"copy-from": "arrow_druid_crafted",
 		"name": { "str": "visceral arrow" },
-		"color": "purple",
+		"color": "green",
+			"material": [ "bone" ],
 		"description": "A disturbing bone arrow with a fragment of a biomancer rune in the arrowhead. It showers its target in acid.",
 		"effects": [ "ACIDBOMB", "RECOVER_35" ]
 	},
@@ -65,7 +66,7 @@
 		"type": "AMMO",
 		"copy-from": "arrow_druid_crafted",
 		"name": { "str": "sparking arrow" },
-		"color": "purple",
+		"color": "white",
 		"description": "A metallic arrow with a fragment of a technomancer rune in the arrowhead. It destroys electronic targets.",
 		"effects": [ "EMP", "DRAW_LASER_BEAM", "RECOVER_35" ]
 	}
