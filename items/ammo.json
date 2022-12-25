@@ -74,10 +74,20 @@
 		"id": "arrow_magus_crafted",
 		"type": "AMMO",
 		"copy-from": "arrow_druid_crafted",
-			"//": "I'd like this to cause massive knockbsck but I'm limited by the available ammo flags.", 
-		"name": { "str": "ricochetting arrow" },
+			"//": "I'd like this to cause massive knockback but I'm limited by the available ammo flags.", 
+		"name": { "str": "gravity arrow" },
 		"color": "white",
 		"description": "An arrow with a fragment of a magus rune in the arrowhead. It reverses flight briefly after striking its target and then hits another one.",
 		"effects": [ "BOUNCE", "RECOVER_35" ]
+	},
+		{
+		"id": "arrow_animist_crafted",
+		"type": "AMMO",
+		"copy-from": "arrow_druid_crafted",
+			"//": "I'd like this to drain life but see above.",
+		"name": { "str": "enervating arrow" },
+		"color": "white",
+		"description": "An arrow with a fragment of an animist rune in the arrowhead. It unleashes a cloud of enervating gas.",
+		"effects": [ "PARALYZEPOISON", "TOXICGAS", "RECOVER_35" ]
 	}
 ]
