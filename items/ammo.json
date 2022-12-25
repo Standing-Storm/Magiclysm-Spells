@@ -69,5 +69,15 @@
 		"color": "white",
 		"description": "A metallic arrow with a fragment of a technomancer rune in the arrowhead. It destroys electronic targets.",
 		"effects": [ "EMP", "DRAW_LASER_BEAM", "RECOVER_35" ]
+	},
+		{
+		"id": "arrow_magus_crafted",
+		"type": "AMMO",
+		"copy-from": "arrow_druid_crafted",
+			"//": "I'd like this to cause massive knockbsck but I'm limited by the available ammo flags.", 
+		"name": { "str": "ricochetting arrow" },
+		"color": "white",
+		"description": "An arrow with a fragment of a magus rune in the arrowhead. It reverses flight briefly after striking its target and then hits another one.",
+		"effects": [ "BOUNCE", "RECOVER_35" ]
 	}
 ]
