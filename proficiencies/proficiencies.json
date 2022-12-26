@@ -3,7 +3,7 @@
     "type": "proficiency",
     "id": "prof_botanical_enchantment",
     "category": "prof_food",
-    "name": { "str": "Botanical Enchantment " },
+    "name": { "str": "Botanical Enchantment" },
     "description": "The ancient art of instilling magical effects into fruit, rarely used after modern alchemical techniques allowed the mass-production of potions that did not spoil.",
     "can_learn": true,
     "time_to_learn": "10 h",
