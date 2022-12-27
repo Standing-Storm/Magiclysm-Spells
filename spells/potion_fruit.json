@@ -1,0 +1,28 @@
+[
+  {
+	    "id": "pfruit_night_vision",
+	    "type": "SPELL",
+	    "name": "Potion fruit Night Vision",
+	    "description": "Grants you the ability to see in the dark.",
+	    "valid_targets": [ "self" ],
+	    "effect": "attack",
+	    "effect_str": "dark_sight",
+	    "shape": "blast",
+	    "flags": [ "NO_LEGS", "SILENT" ],
+	    "min_duration": 18000,
+	    "max_duration": 18000
+  },
+  {
+    "id": "pfruit_heal",
+    "type": "SPELL",
+    "name": "Potion Fruit (Apple)",
+    "description": "Slowly heals you.",
+    "valid_targets": [ "self" ],
+    "effect": "attack",
+    "effect_str": "flask_regeneration",
+    "shape": "blast",
+    "flags": [ "NO_LEGS", "SILENT" ],
+    "min_duration": 15000,
+    "max_duration": 15000
+  }
+]
