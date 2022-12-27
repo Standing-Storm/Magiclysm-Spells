@@ -45,7 +45,7 @@
 	{
 		"id": "arrow_kelvinist_crafted",
 		"type": "AMMO",
-		"copy-from": "arrow_kelvinist_crafted",
+		"copy-from": "arrow_druid_crafted",
 		"name": { "str": "fireball arrow" },
 		"color": "red",
 		"description": "An arrow with a fragment of a kelvinist rune in the arrowhead. It explodes into a firestorm.",
