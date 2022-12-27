@@ -20,7 +20,7 @@
 			"surface": "point",
 			"balance": "good"
 		},
-		"relative": { "to_hit": 1 }
+		"relative": { "to_hit": 1 },
 		"bashing": 4,
 		"cutting": 26,
 		"material": [
