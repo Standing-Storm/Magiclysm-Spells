@@ -3,11 +3,11 @@
 		"id": "arrow_druid_crafted",
 		"type": "AMMO",
 		"price": 150,
-		"name": { "str": "sap-coated arrow" },
+		"name": { "str": "tangler arrow" },
 		"symbol": "=",
 		"color": "green",
 		"looks_like": "arrow_fire_hardened_fletched",
-		"description": "An arrow with a fragment of a druid rune in the arrowhead. It coats its target with sticky sap.",
+		"description": "An arrow with a fragment of a druid rune in the arrowhead. It unleashes a storm of entangling vegetation when it strikes.",
 		"material": [ "wood" ],
 		"volume": "250 ml",
 		"price_postapoc": 25,
@@ -22,7 +22,7 @@
 		"count": 10,
 		"show_stats": true,
 		"critical_multiplier": 10,
-		"effects": [ "APPLY_SAP", "RECOVER_35" ]
+		"effects": [ "TANGLE", "RECOVER_35" ]
 	},
 	{
 		"id": "arrow_stormshaper_crafted",
