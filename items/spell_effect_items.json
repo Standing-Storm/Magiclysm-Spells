@@ -59,9 +59,10 @@
 						{ "value": "DEXTERITY", "add": -1 },
 						{ "value": "STRENGTH", "add": 1 },
 						{ "value": "CLIMATE_CONTROL_HEAT", "add": 20 },
-						{ "value": "ARMOR_HEAT", "add": -5 },
-						{ "value": "ARMOR_ELEC", "add": 5 },
-						{ "value": "ARMOR_STAB", "add": 10 }
+						{ "value": "ARMOR_HEAT", "add": 10 },
+						{ "value": "ARMOR_ELEC", "add": -10 },
+						{ "value": "ARMOR_STAB", "add": -10 },
+						{ "value": "ARMOR_BASH", "add": -5 }
 	               
 	              ] 
 	             } 
