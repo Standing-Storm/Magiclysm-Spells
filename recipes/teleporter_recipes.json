@@ -18,7 +18,7 @@
     "components": [
 			[ [ "mercury", 30 ] ],
 			[ [ "amethyst", 1], [ "emerald", 1 ], [ "diamond", 1 ], [ "sapphire", 1] ],
-			[ [ "scrap_metal", 5 ] ],
+			[ [ "scrap", 5 ] ],
 			[ [ "plastic_chunk", 5 ] ]
 		
 			]
