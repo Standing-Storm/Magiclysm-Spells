@@ -3,7 +3,7 @@
     "id": "teleporter_stone",
     "type": "TOOL",
     "name": { "str": "teleporter stone" },
-    "description": "This dull gray stone seems to have a faint light glimmering in its depths, and looking into it you're almost sure you can see through it somewhere else.",
+    "description": "This dull gray stone seems to have a faint light glimmering in its depths, and looking into it you're almost sure you can see through it to somewhere else.",
     "weight": "200 g",
     "volume": "50 ml",
     "to_hit": -1,
