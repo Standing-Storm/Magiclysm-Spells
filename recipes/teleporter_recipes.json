@@ -34,7 +34,7 @@
 		"autolearn": true,
 		"proficiencies": [ { "proficiency": "prof_alchemy", "required": false, "time_multiplier": 1.3, "fail_multiplier": 1.5 } ], 
 		"qualities": [ { "id": "MANA_INFUSE", "level": 1 } ],
-		"tools": [ [ [ "mortar_pestle", -1 ] ] ]
+		"tools": [ [ [ "mortar_pestle", -1 ] ] ],
 		"components": [
 			[ [ "mercury", 50 ] ],
 			[ [ "teleporter", 1 ] ],
