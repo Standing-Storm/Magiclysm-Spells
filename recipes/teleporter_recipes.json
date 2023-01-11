@@ -16,9 +16,11 @@
       ],
 			"qualities": [ { "id": "CHISEL", "level": 3 }, { "id": "ANVIL", "level": 3 }, { "id": "MANA_INFUSE", "level": 2 } ],
     "components": [
-				[ [ "mercury", 30 ] ],
-				[ [ "fletching", 1, "LIST" ] ],
-				[ [ "rune_druid", 1 ] ]
+			[ [ "mercury", 30 ] ],
+			[ [ "amethyst", 1], [ "emerald", 1 ], [ "diamond", 1 ], [ "sapphire", 1] ],
+			[ [ "scrap_metal", 5 ] ],
+			[ [ "plastic_chunk", 5 ] ]
+		
 			]
 		},
   {
