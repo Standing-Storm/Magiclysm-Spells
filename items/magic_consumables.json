@@ -1,7 +1,7 @@
 [
   {
     "id": "teleporter_stone",
-    "type": "COMESTIBLE",
+    "type": "TOOL",
     "name": { "str": "teleporter stone" },
     "description": "This dull gray stone seems to have a faint light glimmering in its depths, and looking into it you're almost sure you can see through it somewhere else.",
     "weight": "200 g",
