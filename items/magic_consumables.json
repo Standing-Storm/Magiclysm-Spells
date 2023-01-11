@@ -1,0 +1,18 @@
+[
+  {
+    "id": "teleporter_stone",
+    "type": "COMESTIBLE",
+    "name": { "str": "teleporter stone" },
+    "description": "This dull gray stone seems to have a faint light glimmering in its depths, and looking into it you're almost sure you can see through it somewhere else.",
+    "weight": "200 g",
+    "volume": "50 ml",
+    "to_hit": -1,
+    "bashing": 6,
+    "material": [ "crystallized_mana", "concentrated_mana" ],
+    "symbol": "t",
+    "flags": [ "TRADER_AVOID", "SINGLE_USE" ],
+    "color": "light_gray",
+    "use_action": { "type": "cast_spell", "spell_id": "translocate_self", "no_fail": true, "level": 0 },
+  
+  }
+]
