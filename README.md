@@ -1,5 +1,7 @@
 # New Content for Magiclysm
 
+(Note--by this point, most of this has been PRed and now a base part of Magiclysm)
+
 This mod just adds a few spells and other things I've written to the Magiclysm mod.
 
 Current additions:
